@@ -13,7 +13,8 @@ Screen Shots :
 
 World Demographics Analytics Dashboard : 
 
-![image](https://user-images.githubusercontent.com/46509991/118531357-60496480-b763-11eb-8417-8c0a11a07ea7.png)
+![image](https://user-images.githubusercontent.com/46509991/118532238-5bd17b80-b764-11eb-8afe-5a0ca520c5bc.png)
+
 
 
 What I had learned : 
